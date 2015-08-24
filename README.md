@@ -1,2 +1,2 @@
 # workplace_service
-client workplace : www.workplacespl.oom
+client workplace : www.workplacespl.com
